@@ -8,7 +8,7 @@ The application is built in six steps:
 1. Data Collection from Kaggle: images along with their corresponding annotations
 2. Pre-process the data: unstructured data into structured data for training (bounding box information)
 3. Use deep learning-based object detection using deep learning to detect the number plate of a car image: pre-trained Inception-ResNet-v2 and finetune it on collected data
-4. Use Optical Character Recognition to extract the characters and digits from the detected number plate
+4. Use Optical Character Recognition to extract the characters and digits from the detected number plate: Paddle OCR
 5. Develop a Flask application
 6. App deployment on AWS
 

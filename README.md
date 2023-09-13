@@ -12,6 +12,8 @@ The application is built in six steps:
 5. Develop a Flask application
 6. App deployment on AWS
 
+![Image](flowcharts/app_dev_flow.png)
+
 ## Possible Applications Areas
 1) Parking lots
 2) TollPlaza
